@@ -9,32 +9,3 @@
   "h h"
   "n c";
 }
-
-.header {
-  grid-area: h;
-  background-color: rgb(128, 128, 128);
-  height: 50px;
-  border-radius: 10px;
-}
-
-.header img {
-  width: 50px;
-}
-
-.nav {
-  grid-area: n;
-  background-color: blanchedalmond;
-  border-radius: 10px;
-  margin-right: 10px;
-}
-
-.content {
-  grid-area: c;
-  border-radius: 10px;
-  border: solid 3px black;
-}
-
-.content img {
-  max-height: 200px;
-  margin-left: 10px;
-}

@@ -1,0 +1,9 @@
+  .posts {
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+  }
+
+  .posts img {
+      height: 40px;
+  }
