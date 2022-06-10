@@ -11,6 +11,7 @@ const MyPosts = () => {
           <button>Remove</button>
           <Post message='123' />
           <Post message='ZZZZZZ' />
+          <Post message='0' />
     </div>
     );
 };

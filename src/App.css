@@ -9,3 +9,22 @@
   "h h"
   "n c";
 }
+
+.app-wrapper-content {
+    grid-area: c;
+    border-radius: 10px;
+    border: solid 3px black;
+  }
+  
+  .content img {
+    max-height: 200px;
+    margin-left: 10px;
+  }
+
+  .item {
+    margin-left: 30px;
+  }
+
+  .posts{
+    
+  } 
